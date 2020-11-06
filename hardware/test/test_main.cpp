@@ -14,7 +14,7 @@ void test_led_builtin_pin_number(void) {
 }
 
 void test_led_state_high(void) {
-    digitalWrite(LED_BUILTIN, HIGH);
+    digitalWrite(LED_BUILTIN, LOW);
     TEST_ASSERT_EQUAL(HIGH, digitalRead(LED_BUILTIN));
 }
 
