@@ -1,0 +1,31 @@
+-IE:/workshop-github-tools/include
+-IE:/workshop-github-tools/src
+-IC:/Users/Nuwan/.platformio/packages/framework-arduino-avr/cores/arduino
+-IC:/Users/Nuwan/.platformio/packages/framework-arduino-avr/variants/standard
+-IC:/Users/Nuwan/.platformio/lib/Adafruit 9DOF Library_ID14
+-IC:/Users/Nuwan/.platformio/lib/Adafruit L3GD20 U_ID23
+-IC:/Users/Nuwan/.platformio/lib/Adafruit LSM303DLHC_ID26
+-IC:/Users/Nuwan/.platformio/lib/Adafruit NeoPixel_ID28
+-IC:/Users/Nuwan/.platformio/lib/Adafruit TCS34725_ID665
+-IC:/Users/Nuwan/.platformio/lib/Adafruit Unified Sensor_ID31
+-IC:/Users/Nuwan/.platformio/lib/ArduinoJson_ID64/src
+-IC:/Users/Nuwan/.platformio/lib/BH1750_ID439/src
+-IC:/Users/Nuwan/.platformio/lib/DHT sensor library_ID19
+-IC:/Users/Nuwan/.platformio/lib/MFRC522_ID63/src
+-IC:/Users/Nuwan/.platformio/lib/MQTT_ID617/src
+-IC:/Users/Nuwan/.platformio/lib/PubSubClient_ID89/src
+-IC:/Users/Nuwan/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src
+-IC:/Users/Nuwan/.platformio/packages/framework-arduino-avr/libraries/HID/src
+-IC:/Users/Nuwan/.platformio/packages/framework-arduino-avr/libraries/SPI/src
+-IC:/Users/Nuwan/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src
+-IC:/Users/Nuwan/.platformio/packages/framework-arduino-avr/libraries/Wire/src
+-IC:/Users/Nuwan/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include
+-IC:/Users/Nuwan/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed
+-IC:/Users/Nuwan/.platformio/packages/toolchain-atmelavr/avr/include
+-IC:/Users/Nuwan/.platformio/packages/tool-unity
+-DPLATFORMIO=50002
+-DARDUINO_AVR_UNO
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10808
+-D__AVR_ATmega328P__

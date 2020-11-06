@@ -1,0 +1,21 @@
+{
+    "name": "workshop-github-tools",
+    "version": "1.0.0",
+    "description": "Sample Project",
+    "main": "web/index.js",
+    "scripts": {
+        "start": "node web/index.js",
+        "dev": "nodemon web/index.js",
+        "test": "echo \"Error: no test specified\" && exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cepdnaclk/workshop-github-tools.git"
+    },
+    "author": "Nuwan Jaliyagoda",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cepdnaclk/workshop-github-tools/issues"
+    },
+    "homepage": "https://github.com/cepdnaclk/workshop-github-tools#readme"
+}
